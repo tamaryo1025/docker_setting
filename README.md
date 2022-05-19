@@ -1,7 +1,7 @@
 # docker_setting
 dockerを使うための設定ファイルをまとめています。
 
-##できること
+## できること
 - Dockerによる基本的なデータ分析・画像処理の環境構築（GPUも使用可）
 - [おまけ] 仮想デスクトップ（jupyter labをコマンドにより起動　→　jupyter labからnovncを選択）
 
