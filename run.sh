@@ -1,0 +1,1 @@
+docker run -it --name {CONTAINERNAME} --gpus all -p 8888:8888 -v /home/{USERNAME}/:/home/{USERNAME}/workdir {IMAGENAME}
