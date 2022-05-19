@@ -40,7 +40,7 @@ SSH Tragets →　Containersに変更。
 立ち上げ中のコンテナには再生マークがついているので、Attach to Containerのアイコンでアタッチ。分からなければ、調べる or 身近な先輩に聞いてください。
 
 
-##注意点
+## 注意点
 
 - {USERNAME}などはローカルに割り当てられた各自の名前を確認して置き換えてください。
 - {IMAGENAME}、{CONTAINERNAME}も任意です。
