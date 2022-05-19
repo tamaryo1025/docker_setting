@@ -40,6 +40,7 @@ build.shの内容を書き換えて使ってください
 run.shの内容を書き換えて使ってください。
 
 **4. vscodeの拡張機能を使ってコンテナ起動 or docker attach**
+
 vscodeの左のメニューからモニターのようなアイコン(Remote Explorer)を選択。
 
 SSH Tragets →　Containersに変更。
