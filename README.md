@@ -45,7 +45,7 @@ run.shの内容を書き換えて使ってください。
 
 vscodeの左のメニューからモニターのようなアイコン(Remote Explorer)を選択。
 
-SSH Tragets →　Containersに変更。
+SSH Tragets →　Containersに変更。(ただし，Remote DevelopmentのExtensionが必要)
 
 立ち上げ中のコンテナには再生マークがついているので、Attach to Containerのアイコンでアタッチ。分からなければ、調べる or 身近な先輩に聞いてください。
 
