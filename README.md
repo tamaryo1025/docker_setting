@@ -55,7 +55,7 @@ SSH Tragets →　Containersに変更。(ただし，Remote DevelopmentのExtens
 - {USERNAME}などはローカルに割り当てられた各自の名前を確認して置き換えてください。
 - {IMAGENAME}、{CONTAINERNAME}も任意です。
 - Dockerfile内にはuidとgidを書き換える箇所があります。ローカルの環境のuidとgidをidコマンドで確認し、書き換えてください。
-- port番号は他のコンテナと使用番号が被ると使えません。適宜変えましょう。
+- port番号は他のコンテナと使用番号が被ると使えません。適宜変えましょう。command : docker container ls -a
 ex) 8888 →　9999
 - Dockerコマンド・概念やlinuxコマンドが最低限理解できていないと、使えないかもしれません。
 調べる or 身近な先輩に聞いてください。
